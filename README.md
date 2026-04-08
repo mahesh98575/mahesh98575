@@ -5,9 +5,9 @@
 
 ![](https://komarev.com/ghpvc/?username=mahesh98575&color=blue)<br>
 ### A passionate and enthusiast programmer<br>
-<div align="center">
+<!-- <div align="center">
   <img height="200" src="(https://camo.githubusercontent.com/356a0f387c919f600bb345b900143eee39d84127151d16ad36c2b96ff0411c25/68747470733a2f2f7974332e67677068742e636f6d2f615a774f79526f54766d745a734156785469536334385a556f666f626136304669454d71396448703064344e7632446f2d70635a36534f78333534585072374b585a66626f364441436763615a513d733630302d632d6663726f7036343d312c303030303030303066666666666666662d6e642d7631)" width= "350" align=right />
-</div>
+</div> -->
 - 👨‍🏭 I’m currently pursuing <b>B.Tech CSE From Madanapalle Institute of Technology and Science College, Deemed to be University.</b> <br>
 - 🏫 I’m currently learning <b>Data Structures And GenAI</b> <br>
 - 🙌 I’m looking to collaborate on <b>AI Projects</b> <br>
